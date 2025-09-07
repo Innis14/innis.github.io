@@ -1,0 +1,13 @@
+name = "[Let's Do] HerbalBrews"
+filename = "letsdo-herbalbrews-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7de9e5d8fd41367b908562963c1b9da0df091e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6963883
+project-id = 951221
