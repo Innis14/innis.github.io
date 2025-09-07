@@ -1,0 +1,528 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\accessories-neoforge-1.1.0-beta.49+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\addonslib-neoforge-1.21.1-1.6.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\another_furniture-neoforge-4.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\appleskin-neoforge-mc1.21-3.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Aquaculture-1.21.1-2.7.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\architectury-13.0.8-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\athena-neoforge-1.21-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\bellsandwhistles-0.4.7-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\berrypouch-neoforge-1.21.1-0.4.2-beta.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\capturexp-neoforge-1.6.1-1.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CBMultipart-1.21.1-3.5.0.151.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cc-tweaked-1.21.1-forge-1.113.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\chipped-neoforge-1.21.1-4.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ChippedExpress-universal-21x.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CobbleFurnies-neoforge-0.6.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cobblegengalore-1.21.1-0.2.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Cobblemon-neoforge-1.6.1+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cobblemonintegrations-neoforge-1.21.1-1.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CobblemonSizeVariationNeoforge-1.2.0+1.6.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cobblemon_industries-neoforge-1.2.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cobblemore_lib-1.1.1-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\cobblenav-neoforge-2.2.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Cobblepedia-NeoForge-0.7.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CodeChickenLib-1.21.1-4.6.1.524.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\comforts-neoforge-9.0.4+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Controlling-neoforge-1.21.1-19.0.5.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\copycats-3.0.2+mc.1.21.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Corgilib-NeoForge-1.21.1-5.0.0.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Create Encased-1.21.1-1.7.2-fix1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-1.21.1-6.0.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-confectionery1.21.1_v1.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-dragons-plus-1.7.1b.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create-enchantment-industry-2.2.1b.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\createaddition-1.5.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CreateNumismatics-1.0.18+neoforge-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_aquatic_ambitions-1.21.1-2.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_hypertube-0.2.5-NEOFORGE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_oxidized-0.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\create_winery-1.7.0-neoforge-1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\CreativeCore_NEOFORGE_v2.13.11_mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Design-n-Decor-1.21.1-2.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\DnDesires-1.21.1-2.2c-BETA.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ends_delight-2.5.1+neoforge.1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\expandeddelight-0.1.3.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FarmersDelight-1.21.1-1.2.9.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farmersexpanse-0.0.7c.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farmersknives-neoforge-1.21.1-4.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FarmersStructures-1.0.1-1.21.1_neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fightorflight-neoforge-0.8.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fireworkcapsules-neoforge-1.0.0+1.21.1+hotfix.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\FramedBlocks-10.4.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\framework-neoforge-1.21.1-0.9.6.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\fusion-1.2.11a-neoforge-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\geckolib-neoforge-1.21.1-4.7.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\handcrafted-neoforge-1.21.1-4.0.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ImmersiveEngineering-1.21.1-12.4.2-194.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\immersive_melodies-neoforge-0.6.2+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Jade-1.21.1-NeoForge-15.10.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jamlib-neoforge-1.3.5+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\jei-1.21.1-neoforge-19.21.2.313.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\kotlinforforge-5.9.0-all.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-bakery-neoforge-2.1.1-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-brewery-neoforge-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-candlelight-neoforge-2.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-farm_and_charm-neoforge-1.1.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\letsdo-herbalbrews-neoforge-1.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-fences-1.2.0-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-holidays-1.1.0-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-lights-1.1.2-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-paintings-1.0.5-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-paths-1.1.0neoforge-mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-stairs-1.0.1-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcw-windows-2.4.0-1.21.1neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwbiomesoplenty-neoforge-1.21.1-1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\mcwbyg-neoforge-1.21.1-1.2.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\MoreRed-CCT-Compat-1.21.1-1.1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Biomes-Weve-Gone-NeoForge-2.4.7.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\open-parties-and-claims-neoforge-1.21.1-0.25.4.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Patchouli-1.21.1-92-NEOFORGE.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\pipeorgans-0.6.4+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\pneumaticcraft-repressurized-8.2.13+mc1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-core.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-expansion.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-exploration.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-fabrication.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-illumination.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-integration.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\ProjectRed-1.21.1-4.22.0-alpha+11-transmission.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rechiseled-1.1.6a-neoforge-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rechiseledcreate-1.0.2a-neoforge-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\refurbished_furniture-neoforge-1.21.1-1.0.16.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\resourcefullib-neoforge-1.21-3.0.12.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\rightclickharvest-neoforge-4.5.3+1.21.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Searchables-neoforge-1.21.1-1.0.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\SimpleTMs-neoforge-2.1.2.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sliceanddice-neoforge-4.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedbackpacks-1.21.1-3.25.2.1338.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedcore-1.21.1-1.3.70.1131.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sophisticatedstorage-1.21.1-1.5.2.1270.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\sound-physics-remastered-neoforge-1.21.1-1.4.15.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\stackedblocks-25.02.13-1.21-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\stackedblocksfarmersdelight-25.02.13-1.21-neoforge.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\StorageDrawers-neoforge-1.21.1-13.11.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Terralith_1.21.x_v2.5.8.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\timcore-neoforge-1.6.1-1.8.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\valhelsia_furniture-neoforge-1.21.1-1.1.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\veggiesdelight-1.8.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\XaerosWorldMap_1.39.12_NeoForge_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Xaeros_Minimap_25.2.10_NeoForge_1.21.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\xercapaint-1.21.1-1.0.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 11552,
+    "enableRecommendedRam": true
+  }
+}
