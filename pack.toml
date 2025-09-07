@@ -1,0 +1,13 @@
+name = "Cobblemon"
+author = "Innis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "243b81eb5e8229de99da905bdeb7c960f6017b25608d98f0bbb0b4ef67a4b496"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.208"
